@@ -1,20 +1,22 @@
 📊 Overview
 
-This project analyzes car sales data to understand revenue performance, customer behavior, product trends, and regional market dynamics. The dashboard transforms raw data into interactive visuals that help stakeholders make faster and smarter business decisions.
-It tells a complete story of how sales evolve, which car models dominate the market, and how different customer segments contribute to overall revenue.
+   This project analyzes car sales data to understand revenue performance, customer behavior, product trends,
+   and regional market dynamics. The dashboard     transforms raw data into interactive visuals that help stakeholders make faster and smarter business decisions.
+   It tells a complete story of how sales evolve, which car models dominate the market, and how different customer segments contribute to overall revenue.
 ________________________________________
 📈 Dashboard Visuals
 
-Sales Overview
-Revenue & KPIs
-Car Models Performance
-Regional Analysis
-Time Series Trends
+   Sales Overview
+   Revenue & KPIs
+   Car Models Performance
+   Regional Analysis
+   Time Series Trends
 
 ________________________________________
 🔍 Key Insights
 
-The analysis shows that a small number of car models and engine types dominate total revenue, while customer behavior is highly concentrated in specific segments. Regional performance also varies significantly, with clear differences in demand across markets. In addition, sales trends indicate strong seasonal patterns with noticeable peaks during certain months.
+   The analysis shows that a small number of car models and engine types dominate total revenue, while customer behavior is highly concentrated in specific    segments. Regional performance also varies significantly, with clear differences in demand across markets. 
+   In addition, sales trends indicate strong seasonal patterns with noticeable peaks during certain months.
 ________________________________________
 
 🛠 Tools & Technologies
