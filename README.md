@@ -15,34 +15,12 @@ The analysis shows that a small number of car models and engine types dominate t
 ________________________________________
 
 🛠 Tools & Technologies
-Power BI, DAX, Power Query, Excel, and Star Schema Data Modeling were used to clean, transform, and visualize the data in an efficient and scalable structure.
+Power BI, DAX, Power Query, Excel, and Star Schema Data Modeling were used to clean, transform, and visualize the data in an efficient, scalable manner.
 ________________________________________
 📁 Project Structure
 
-Car-Sales-Performance-Dashboard/
-│
-├── 📊 Dashboard. pbix
-│   → Power BI main report file
-│
-├── 📁 data/
-│   ├── raw_data.xlsx
-│   └── cleaned_data.xlsx
-│   → Dataset files (raw + cleaned versions)
-│
-├── 📁 images/
-│   ├── sales_overview.png
-│   ├── kpis.png
-│   ├── car_models.png
-│   ├── regional_analysis.png
-│   └── trends.png
-│   → Dashboard screenshots for GitHub README
-│
-├── 📁 docs/
-│   └── data_model.png
-│   → Data model (Star Schema diagram if available)
-│
-├── 📄 README.md
-│   → Project documentation and description
+   <img width="773" height="579" alt="st" src="https://github.com/user-attachments/assets/06e6e9bc-735c-4080-b0f0-bc0a5c062b0e" />
+
 ________________________________________
 💡 Skills Demonstrated
 Data cleaning and transformation, data modeling using Fact and Dimension tables, advanced DAX calculations, KPI development, interactive dashboard design, and data storytelling.
@@ -51,6 +29,7 @@ ________________________________________
 👨‍💻 Author 
 Mohammed Hamza 
 Data Analyst | Data Visualization Specialist | Project Management Professional 
+
 Experienced Project Manager with 5 years of expertise in leading and delivering successful projects across different domains. Transitioning into Data Analytics with strong skills in data visualization, dashboard development, and transforming data into actionable business insights
 ________________________________________
 📌 Business Value
