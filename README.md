@@ -28,6 +28,15 @@ ________________________________________
    <img width="773" height="579" alt="st" src="https://github.com/user-attachments/assets/06e6e9bc-735c-4080-b0f0-bc0a5c062b0e" />
 
 ________________________________________
+
+
+## Dashboard Preview
+ 
+![Overview Dashboard](Images/Dashboard.png)
+![Retention Dashboard](Images/Details.png)
+ 
+
+
 💡 Skills Demonstrated
 
 Data cleaning and transformation, data modeling using Fact and Dimension tables, advanced DAX calculations, KPI development, interactive dashboard design, and data storytelling.
