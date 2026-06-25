@@ -33,8 +33,14 @@ ________________________________________
 ## Dashboard Preview
 
  
-![Overview Dashboard](Dashboard.png)
-![Retention Dashboard](Images/Details.png)
+![Dashboard Dashboard](Dashboard.png)
+
+
+
+
+
+
+![Details Dashboard](Images/Details.png)
  
 
 
