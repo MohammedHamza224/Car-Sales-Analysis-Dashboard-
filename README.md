@@ -36,7 +36,7 @@ ________________________________________
 ![Dashboard Dashboard](Dashboard.png)
 
 
-![Details Dashboard](Details.png)
+![Detail](Details.png)
  
 
 
