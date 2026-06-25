@@ -37,7 +37,7 @@ ________________________________________
 
 Mohammed Hamza 
 
-Data Analyst | Business Intelligence | Project Management Professional 
+Data Analyst | Data Visualization Specialist | Project Management Professional 
 
 Experienced Project Manager with 5 years of expertise in leading and delivering successful projects across different domains. Transitioning into Data Analytics with strong skills in data visualization, dashboard development, and transforming data into actionable business insights
 ________________________________________
